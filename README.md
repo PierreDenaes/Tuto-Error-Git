@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Procédure pour causer un conflit de fusion
 Étapes à suivre, une par une:
 
@@ -13,3 +14,6 @@ Dans le README.md de cette branche, modifier également la première phrase des 
 Revenir à la branche master
 Fusionner branche1 dans master, avec git merge
 Fusionner branche2 dans master
+=======
+# Procédure pour causer un conflit de fusion
+>>>>>>> errorGit
